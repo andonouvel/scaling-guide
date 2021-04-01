@@ -1,0 +1,231 @@
+.rectanglenoirbase{
+position: relative;
+ width: 600px;
+ height:600px;
+ background-color: rgba(222,222,222,1);
+}
+	
+.rectanglevert{
+position: absolute;
+ left:43px;
+ top:0px;
+ background-color:rgba(131,172,82,1);
+ width:231px;
+ height:600px; 
+}
+
+.rectanglevert:hover{
+	background-color: rgba(62,92,56,1);
+}
+
+
+.rectanglebleu{
+position: absolute;
+ right:43px;
+ top:0px;
+ background-color:rgba(55,117,182,1);
+ width:240px;
+ height:600px;
+ transition: all 1s ease-in;
+}
+
+.rectanglebleu:hover{
+position: absolute;
+ right:0px;
+ top:0px;
+ background-color:rgba(74,116,133,1);
+ width:24px;
+ height:600px;
+}
+
+
+.cerclerouge1{
+position: absolute;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(239,76,76,1);
+    border-bottom-right-radius: 100px; 
+    border-top-right-radius: 100px;
+    transition: all 0.8s ease-in;
+
+}
+.cerclerouge1:hover{
+position: absolute;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(126,26,23,1);
+    border-bottom-right-radius: 50px; 
+    border-top-right-radius: 50px;
+
+
+} 
+
+ 
+ .cerclerouge2{
+position: absolute;
+left: 0px;
+top:200px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(120,5,54,1);
+    border-bottom-right-radius: 100px; 
+    border-top-right-radius: 100px; 
+       transition: all 0.8s ease-in;
+
+}
+
+.cerclerouge2:hover{
+	background-color: rgba(159,96,123,1);
+}
+
+
+ .cerclerouge3{
+position: absolute;
+left:0px;
+top:400px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(91,4,4,1);
+    border-bottom-right-radius: 100px; 
+    border-top-right-radius: 100px;
+       transition: all 0.8s ease-in;
+}
+
+.cerclerouge3:hover{
+	background-color: rgba(116,71,71,1);
+}
+
+ .cerclerouge4{
+position: absolute;
+top:0px;
+right: 0px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(221,31,17,1);
+    border-bottom-left-radius: 100px; 
+    border-top-left-radius: 100px; 
+       transition: all 0.8s ease-in;
+}
+
+ .cerclerouge4:hover{
+position: absolute;
+top:80px;
+right: 40px;
+    height: 50px;
+    width: 50px;  
+    background-color: rgba(221,31,17,1);
+    border-bottom-left-radius: 100px; 
+    border-top-left-radius: 100px; 
+  
+}
+
+ .cerclerouge5{
+position: absolute;
+top:200px;
+right: 0px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(247,68,27,1);
+    border-bottom-left-radius: 100px; 
+    border-top-left-radius: 100px; 
+       transition: all 0.8s ease-in;
+}
+ .cerclerouge5:hover{
+position: absolute;
+top:0px;
+right: 0px;
+    height: 0px;
+    width: 60px;  
+    background-color: rgba(247,68,27,1);
+    border-bottom-left-radius: 100px; 
+    border-top-left-radius: 100px; 
+
+}
+
+ .cerclerouge6{
+position: absolute;
+top:400px;
+right: 0px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(192,35,20,1);
+    border-bottom-left-radius: 100px; 
+    border-top-left-radius: 100px; 
+       transition: all 0.8s ease-in;
+}
+
+.cerclerouge6:hover{
+	background-color: rgba(156,33,23,1s);
+}
+
+
+.cerclerouge7{
+position: absolute;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(233,51,11,1);
+    border-bottom-right-radius: 100px; 
+    border-top-right-radius: 100px;
+       transition: all 0.8s ease-in; 
+}
+ 
+ .cerclerouge8{
+position: absolute;
+left: 0px;
+top:200px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(227,47,24,1);
+    border-bottom-right-radius: 100px; 
+    border-top-right-radius: 100px; 
+       transition: all 0.8s ease-in;
+}
+
+ .cerclerouge9{
+position: absolute;
+left:0px;
+top:400px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(243,59,25,1);
+    border-bottom-right-radius: 100px; 
+    border-top-right-radius: 100px; 
+       transition: all 0.8s ease-in;
+}
+
+ .cerclerouge10{
+position: absolute;
+top:0px;
+right: 0px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(228,51,18,1);
+    border-bottom-left-radius: 100px; 
+    border-top-left-radius: 100px; 
+       transition: all 0.8s ease-in;
+}
+
+ .cerclerouge11{
+position: absolute;
+top:200px;
+right: 0px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(248,43,24,1);
+    border-bottom-left-radius: 100px; 
+    border-top-left-radius: 100px; 
+       transition: all 0.8s ease-in;
+}
+
+ .cerclerouge12{
+position: absolute;
+top:400px;
+right: 0px;
+    height: 200px;
+    width: 100px;  
+    background-color: rgba(242,61,18,1);
+    border-bottom-left-radius: 100px; 
+    border-top-left-radius: 100px; 
+       transition: all 0.8s ease-in;
+}
+
